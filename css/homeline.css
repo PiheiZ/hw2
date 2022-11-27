@@ -1,0 +1,67 @@
+
+nav li{
+    font-family:"Lucida Console";
+    font-weight:bold;
+    font-size: 25px;
+    display: inline-block;
+    margin: 20px;
+    width: 24%;
+    
+}
+a:hover{
+    color: rgb(167, 48, 139);
+}
+a:link{
+    color: blueviolet;
+}
+table caption{
+    font-size: 20px;
+    margin: 1em 0;  
+    font-family:'Ó×Ô²';
+    font-weight: bold;
+    color: rgb(18, 0, 105);
+}
+table tbody tr:nth-child(odd){
+    background-color: rgba(247, 146, 178, 0.5);
+}
+table tbody tr:nth-child(even){
+    background-color: rgba(187, 68, 132, 0.5);
+}
+.table2{margin: 0 auto;
+width: 40vw;
+border:3ch;
+border-collapse: collapse;
+font-size: 18px;
+}
+table  td:nth-child(odd){
+    color:rgb(199, 52, 204)
+}
+table  td:nth-child(even){
+    color:rgb(214, 45, 141)
+}
+div li{
+    display:inline-block;
+}
+.foot{
+    margin-top: 0px;
+    width: 100vw;
+    height: 100px;
+    float: left;
+    clear: both;
+    text-align: center;
+    margin-bottom: 0px;
+    background-color: rgba(125, 20, 210, 0.3);
+}
+.table3{margin: 0 auto;
+    width: 30vw;
+    border:3ch;
+    border-collapse: collapse;
+    font-size: 18px;
+    box-shadow: 0px 0px 0px 15px #aaa;
+    }
+    .foot p{
+        font-family:"Lucida Console";
+    font-weight:bold;
+    color: blueviolet;
+    font-size: 20px;
+    }
